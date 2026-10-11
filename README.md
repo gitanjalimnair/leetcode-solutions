@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0707-design-linked-list](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0029-divide-two-integers) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
