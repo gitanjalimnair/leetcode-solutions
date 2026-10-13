@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0292-nim-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0292-nim-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
@@ -110,4 +111,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
