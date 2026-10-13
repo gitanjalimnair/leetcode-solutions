@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0292-nim-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0877-stone-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0319-bulb-switcher) |
 ## Minimax
 |  |
 | ------- |
