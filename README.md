@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0292-nim-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0027-remove-element) |
+| [0877-stone-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0877-stone-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0877-stone-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -119,10 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0877-stone-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -131,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0292-nim-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
