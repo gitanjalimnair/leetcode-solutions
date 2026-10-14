@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/gitanjalimnair/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Math
 |  |
